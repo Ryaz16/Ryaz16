@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryaz16&label=Profile%20views&color=0e75b6&style=flat" alt="ryaz16" /> </p>
 
-- 🔭 My latest projects: **[Dropout Prediction](https://github.com/Ryaz16/Dropout-Prediction),**[Diamond Prediction ](), [Students Performance Analysis](https://github.com/Ryaz16/Students-Analysis-Performance)**
+- 🔭 My latest projects: **[Dropout Prediction](https://github.com/Ryaz16/Dropout-Prediction),**[Diamond Prediction ](https://github.com/Ryaz16/Diamond-Prediction), [Students Performance Analysis](https://github.com/Ryaz16/Students-Analysis-Performance)**
 
 - 🌱 I’m currently learning **Deep Learning**
 
