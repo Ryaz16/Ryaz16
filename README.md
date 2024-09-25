@@ -7,9 +7,9 @@
 
 - 🔭 My latest projects: **[SQL Music_store_Analysis](https://github.com/Ryaz16/SQL-Music_store),[Dropout Prediction](https://github.com/Ryaz16/Dropout-Prediction),**[Diamond Prediction ](https://github.com/Ryaz16/Diamond-Prediction), [Students Performance Analysis](https://github.com/Ryaz16/Students-Analysis-Performance)**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Data Science**
+- 💬 Ask me about **Machine Learning, Data Analysis, Data Science**
 
 - 📫 How to reach me **riyazmbeig@gmail.com**
 
